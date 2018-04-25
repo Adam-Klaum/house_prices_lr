@@ -1,0 +1,10 @@
+name: house_prices_lr
+dependencies:
+- python=3
+- numpy
+- pandas
+- seaborn
+- matplotlib
+- jupyter
+- scikit-learn
+
